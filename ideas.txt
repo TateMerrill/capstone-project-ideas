@@ -1,0 +1,10 @@
+#1 Machine learning Project:
+    Stock price prediction, house price prediction, car price prediction
+#2 Data Visulation Project:
+    Using Data.gov demenstrate how to show data and find the useful info in it
+#3 Mini Game Website:
+    Site containing a few mini games including username and leaderboard for all the apply.
+#4 Health Website:
+    Meal prep guide, BMI Calculator 
+#5 Game Review App:
+    Can search any game and reivew it
